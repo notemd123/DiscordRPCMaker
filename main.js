@@ -54,12 +54,12 @@ if (id !== undefined) {
     activity.largeImageKey = options.largeimage;
     // If you change this and some asks about this, please still give me credit :)
     activity.largeImageText =
-      "Made with ThatOneCalculator's Discord RPC Maker (v2.1.1 CLI)!";
+      "One of the best MNK Apex Legends Players to ever live!";
   }
   if (options.smallimage !== "") {
     activity.smallImageKey = options.smallimage;
     // Same applies with assets.large_text
-    activity.smallImageText = "https://drpcm.t1c.dev/";
+    activity.smallImageText = "DM about coaching!";
   }
 
   if (assets !== {}) activity.assets = assets;
